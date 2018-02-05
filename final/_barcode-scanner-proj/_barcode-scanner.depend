@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1516031527 source:c:\users\adm1n\desktop\assignmenttesting\final\mc170202331_ass3\main.cpp
+	<cstdlib>
+	<iostream>
+
